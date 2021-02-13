@@ -1,0 +1,13 @@
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.exe
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.deps.json
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.runtimeconfig.json
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.runtimeconfig.dev.json
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.dll
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\bin\Debug\netcoreapp3.1\GenericIntro.pdb
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.csprojAssemblyReference.cache
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.AssemblyInfoInputs.cache
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.AssemblyInfo.cs
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.csproj.CoreCompileInputs.cache
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.dll
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.pdb
+C:\Users\TESLA\source\repos\GenericIntro\GenericIntro\obj\Debug\netcoreapp3.1\GenericIntro.genruntimeconfig.cache
